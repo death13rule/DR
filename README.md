@@ -10,6 +10,8 @@
 
 ![alt text](https://github.com/death13rule/screenshots/blob/96c25693cebdaa25330f53308f787615aa53baf9/Router2.png)
 
+Файл схема (https://github.com/death13rule/DR/blob/e89fd1c237aebeea00c59349e6697c2c0a64c01d/Schema(task1).pkt)
+
 
 ### Задание 2
 
